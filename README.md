@@ -6,3 +6,5 @@
 5. What are our 10 most expensive products?
 6. In which quarter in 1997 did we have the most revenue?
 7. Which products have a price that is higher than average?
+
+Databse Script: https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql
